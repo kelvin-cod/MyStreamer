@@ -1,14 +1,16 @@
-.container-fluid {
-  /* height: 100vh;*/
-}
-
 .img {
   height: auto;
   width: 250px !important;
 }
+
 .dados {
-  bottom: 10px;
-  right: 10px;
-  background-color: aquamarine;
-  width: max-content;
+  bottom: 1px;
+  height: 110px;
+  width: 100%
+}
+
+.onmousehover:hover {
+  background-color: rgb(39, 243, 39) !important;
+  height: 120px !important;
+
 }
